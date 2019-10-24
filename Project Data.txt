@@ -1,0 +1,70 @@
+Unfinished Labs
+
+Intro to Machine Learning
+Intro to Sklearn
+
+Prediction Model
+
+Y is numerical
+
+Get Tumlbr API key
+Get Instagram API key
+Get Twitter API key
+Get Facebook API key
+
+Bag of Words
+
+69M - US Twitters in Q3
+68M - US Twitters in Q4
+
+MAU - 326 M Q3
+53% Male
+47% Female
+
+US - 69 M
+Int - 257 M
+
+21% of US adults use Twitter
+
+37% 18-29 total
+
+Total US Pop - 325,719,178
+
+Adult US Pop - 252,106,643
+
+Male - 49.2
+Female - 50.8
+
+Adults - 77.4 % are 18+
+252,106,643
+Adults - 73.3 % are 21+
+238,752,157
+
+38% adults 18-35 use twitter
+
+68,401,027 US adults use Twitter
+
+36,252,544.31 US Male Adults use Twitter
+
+32,148,483 US Female Adults use Twitter
+
+80% of Tweets from top 10% of users
+6,840,102 produce 80% of tweets
+
+
+2% of US adult population produces 80% of tweets
+24% of US adult population produces 20% of tweets
+
+20% of Tweets from bottom 90% of users
+61,560,924 produce 20% of tweets
+
+37% of users between 18-20
+25% of users between 30-49
+
+62% of users between 18-49
+
+63% of users between 35-65
+
+88% of users betweeen 18-65
+
+
